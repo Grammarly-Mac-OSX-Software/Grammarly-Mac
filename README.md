@@ -1,6 +1,6 @@
 # Grammarly Mac Pro Subscription
 
-<img src="https://images.seeklogo.com/logo-png/37/1/grammarly-logo-png_seeklogo-372361.png" width="200" alt="App icon" align="left"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyP-bt1Bt2HVXTnuQX1gvijppbiTiWqCBmHg&s" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>Grammarly for macOS</h3>
